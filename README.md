@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pabitra Khatri</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer </h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/38/f9/13/38f913f969b14a6ca5af964cc5b3528a.jpg">
 
