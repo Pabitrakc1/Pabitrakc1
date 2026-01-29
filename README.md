@@ -62,13 +62,14 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pabitrakc1&show_icons=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabitrakc1&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pabitrakc1&show_icons=true&cache_seconds=1800.png" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabitrakc1&layout=compact&cache_seconds=1800.png" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pabitrakc1" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=pabitrakc1&cache_seconds=1800.png" height="160"/>
 </p>
+
 
 ---
 
